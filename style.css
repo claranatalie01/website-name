@@ -1,0 +1,25 @@
+body{
+	background-color:black;
+	color: white;
+	font-family:'MutatorSans';
+	
+}
+
+h1{
+	text-align: center;
+	font-size: 64px;
+	text-decoration:underline-bold;
+}
+
+p{
+	font-size: 40px;
+}
+#short{
+	height:100px;
+}
+.tall{
+	width: 100%;
+	height: 400px;
+	
+	
+}
