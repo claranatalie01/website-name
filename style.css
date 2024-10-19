@@ -10,7 +10,14 @@ h1{
 	font-size: 64px;
 	text-decoration:underline-bold;
 }
-
+.description {
+    max-width: 800px;          /* Limits the width of the content */
+    margin: 20px auto;        /* Centers the content with space above and below */
+    padding: 20px;            /* Adds space inside the container */
+    background-color: #fff;   /* Sets a white background for the description */
+    border-radius: 8px;       /* Rounds the corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for depth */
+}
 p{
 	font-size: 40px;
 }
